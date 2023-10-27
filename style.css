@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.clear{
+    clear: both;
+}
+
+
+
+.navbar{
+    background-color: rgb(4, 3, 3);
+}
+.contain{
+    /* background-color: rgb(21, 22, 22); */
+    width: 70%;
+    margin: auto;
+height: 30%;
+padding-top: 7px;
+}
+.logo{
+    float: left; 
+
+}
+.logo img{
+    width: 40%;
+}
+
+   
+
+.list1 ul li{
+list-style-type: none;
+float: right; 
+margin-right: 10px;
+}
+.list1 ul li a {
+    text-transform: uppercase;
+text-decoration:none ;
+text-decoration: none;
+color: white;
+}
+.portfolio{
+    background-color:rgb(222, 231, 230) ;
+    text-align: center;
+}
+.port-item{
+    width: 33.3%;
+    float:left ;
+    padding-right: 20px;
+    background-color: aquamarine;
+}
+.portfolio img{
+ display: block;
+width: 100%;
+}
+
+
+
+
+
+
+
+
